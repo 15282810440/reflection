@@ -1,10 +1,9 @@
+
+
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * @author 何欣
- * @date 2019/3/20 10:56
- */
+
 public class TestParams {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, NoSuchFieldException, IllegalAccessException, InvocationTargetException, InstantiationException {
         Class clazz = Class.forName("Student");

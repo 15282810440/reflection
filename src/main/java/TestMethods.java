@@ -1,10 +1,8 @@
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-/**
- * @author 何欣
- * @date 2019/3/20 11:14
- */
+
 public class TestMethods {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InstantiationException, InvocationTargetException {
 

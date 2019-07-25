@@ -7,10 +7,6 @@ import proxy.bean.CglibProgrammer;
 
 import java.lang.reflect.Method;
 
-/**
- * @author 何欣
- * @date 2019/4/3 15:43
- */
 public class CglibProxyTest implements MethodInterceptor {
 
     public static Object getInstance(){

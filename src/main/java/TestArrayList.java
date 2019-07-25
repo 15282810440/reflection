@@ -1,12 +1,10 @@
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author 何欣
- * @date 2019/3/20 11:33
- */
+
 public class TestArrayList {
     public static void main(String[] args) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
 

@@ -4,10 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-/**
- * @author 何欣
- * @date 2019/3/20 11:47
- */
+
 public class JDKProxyTets implements InvocationHandler {
     private Object target;
     public Object bind(Object target){

@@ -1,7 +1,4 @@
-/**
- * @author 何欣
- * @date 2019/3/20 10:33
- */
+
 public class Student {
     Student(String str){
         System.out.println("(默认)的构造方法 s = " + str);

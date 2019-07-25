@@ -1,11 +1,9 @@
+
 import javax.annotation.Resource;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * @author 何欣
- * @date 2019/3/20 9:40
- */
+
 @Resource
 public class TestConstruct {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
